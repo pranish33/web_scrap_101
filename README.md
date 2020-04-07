@@ -1,10 +1,11 @@
 # web_scrap_101
 scrap imdb top movies
 
-## Usage
+## Install
 `https://github.com/pranish33/web_scrap_101.git`
 
 `cd web_scrap_101`
+
 `pip install -r requirements.txt`
 
 ## Usage
